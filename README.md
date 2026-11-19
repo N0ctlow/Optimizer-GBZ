@@ -11,12 +11,17 @@
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-7C3AED?style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1-D946EF?style=flat-square)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-39FF88?style=flat-square)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0-22D3EE?style=flat-square)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-0.1.0--beta-22D3EE?style=flat-square)
 
 </div>
 
-<!-- Dica: tire um print do painel aberto, salve como assets/screenshot.png e troque esta linha por:
-![Optimizer GBZ](assets/screenshot.png) -->
+<img src="https://github.com/user-attachments/assets/f14bc18f-104c-4042-bfb9-d1444cd08d97" width="100%" alt="Optimizer GBZ — Central de otimização para Windows">
+
+<div align="center">
+
+[![Baixar a versão beta](https://img.shields.io/badge/%E2%AC%87%20BAIXAR-v0.1.0--beta-FF2E88?style=for-the-badge)](https://github.com/N0ctlow/Optimizer-GBZ/releases)
+
+</div>
 
 ---
 
