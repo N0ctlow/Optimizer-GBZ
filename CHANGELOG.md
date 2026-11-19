@@ -1,8 +1,8 @@
 # Histórico de versões
 
-## 1.0.0 (19/11/2026)
+## 0.1.0-beta (19/11/2026)
 
-Primeira versão pública.
+Primeira versão pública (beta).
 
 - Visual Cyber HUD: abertura estilo terminal, logo com glitch, mira nos cards, linhas de scan
 - Painel ao vivo: CPU, RAM, disco, ping e gráfico da CPU
